@@ -9,6 +9,7 @@ const Person = (props) => {
 	const img = props.img;
 	const affiliation = props.affiliation;
 	const email = props.email;
+	const page = props.page;
 
 	const mouseEnterEvent = (e) => {
 		document.getElementById(`tooltip-${name}`).style.opacity = "1";
@@ -38,7 +39,10 @@ const Person = (props) => {
 				onMouseLeave={mouseLeaveEvent}
 				style={{opacity: "0.9"}}
 			/>
-			<h4>{name}</h4>
+			<h4>
+			<a href={page} target="_blank" rel="noopener noreferrer" style={{ color: 'black'}}>
+			{name}
+  			</a></h4>
 			<h5>{affiliation}</h5>
 
 			<div 
@@ -53,3 +57,4 @@ const Person = (props) => {
 }
 
 export default Person;
+

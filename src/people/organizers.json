@@ -4,7 +4,8 @@
 		"email": "flin@unc.edu",
 		"affiliation": "UNC-Chapel Hill",
 		"bio": "Feng Lin is an undergraduate student in the Department of Statistics & Operations Research at the University of North Carolina-Chapel Hill.",
-		"image": "feng.jpg"
+		"image": "feng.jpg",
+		"page": "https://scholar.google.com/citations?hl=zh-CN&user=0ic1NKYAAAAJ"
 
 	},
 	{
@@ -19,22 +20,24 @@
 		"email": "dilshadur@sci.utah.edu",
 		"affiliation": "University of Utah",
 		"bio": "Md Dilshadur Rahman is a Computer Science PhD student at the Kahlert School of Computing at the University of Utah.",
-		"image": "Rahman.jpg"
-
+		"image": "Rahman.jpg",
+		"page": "https://dilshadur.owlstown.net/"
 	},
 	{
 		"name": "Danielle Albers Szafir",
 		"email": "dnszafir@cs.unc.edu",
 		"affiliation": "UNC-Chapel Hill",
 		"bio": "Danielle Albers Szafir is an Associate Professor in the Department of Computer Science at the University of North Carolina-Chapel Hill.",
-		"image": "danielle.png"
+		"image": "danielle.png",
+		"page": "https://danielleszafir.com/"
 	},
 	{
 		"name": "Ghulam Jilani Quadri",
 		"email": "quadri@ou.edu",
 		"affiliation": "University of Oklahoma",
 		"bio": "Ghulam Jilani Quadri is an Assistant Professor in the School of Computer Science at the University of Oklahoma. Previously, he was a Postdoc Fellow & Computing Innovation Fellow at UNC-Chapel Hill.",
-		"image": "quadri.jpg"
+		"image": "quadri.jpg",
+		"page": "http://jiquadcs.com/"
 	}
 ]
 

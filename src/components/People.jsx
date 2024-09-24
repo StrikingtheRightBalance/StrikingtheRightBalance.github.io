@@ -27,7 +27,7 @@ const People = (props) => {
 				{people.map((person, index) => {
 					return (
 						<div key={index}>
-							<Person name={person.name} bio={person.bio} img={person.image} affiliation={person.affiliation} email={person.email} />
+							<Person name={person.name} bio={person.bio} img={person.image} affiliation={person.affiliation} email={person.email} page={person.page} />
 						</div>
 					)})}
 		</div>
