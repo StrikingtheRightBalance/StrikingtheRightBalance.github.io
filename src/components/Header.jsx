@@ -63,7 +63,7 @@ const Header = () => {
         BELIV Workshop
     </a>
     {" at IEEE VIS 2024"}
-    <span style={{ fontStyle: 'italic', color: '#555', marginLeft: '30px' }}>
+    <span style={{ fontStyle: 'italic', color: '#555', marginLeft: '10px' }}>
         Time and Date: 3:50-4:00 EST on October 14, 2024
     </span>
 	</p>

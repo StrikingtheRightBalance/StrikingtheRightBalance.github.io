@@ -11,7 +11,7 @@ const Footer = () => {
 			Time: 3:50-4:00 EST 
 			 */}
 			  <p style={{ textAlign: "left", marginTop: "20px" }}>
-                <strong>To discuss more on similar topics, please attend our panel discuss: <a href="https://vis-panel-enough-evaluation.github.io/
+                <strong>Attend our panel for more similar topics discussion: <a href="https://vis-panel-enough-evaluation.github.io/
 " target="_blank" rel="noopener noreferrer">
     (Yet Another) Evaluation Needed? A Panel Discussion on Evaluation Trends in Visualization
   </a>
