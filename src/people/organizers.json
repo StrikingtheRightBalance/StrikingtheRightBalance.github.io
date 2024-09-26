@@ -13,7 +13,9 @@
 		"email": "zeyuwang@cs.unc.edu",
 		"affiliation":"UNC-Chapel Hill",
 		"bio": "Arran Zeyu Wang is a third-year PhD student in the Department of Computer Science at the University of North Carolina-Chapel Hill.",
-		"image": "arran.png"
+		"image": "arran.png",
+		"page":"https://sites.google.com/view/zyw/"
+
 	},	
 	{
 		"name": "Md Dilshadur Rahman",
